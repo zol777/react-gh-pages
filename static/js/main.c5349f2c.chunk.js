@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-gh-pages"]=this["webpackJsonpreact-gh-pages"]||[]).push([[0],{14:function(e,t,n){},7:function(e,t,n){"use strict";n.r(t);var r=n(5),c=(n(0),n(3)),a=n.n(c),o=(n(14),n(19));function s(){return Object(r.jsx)(o.a,{variant:"contained",color:"primary",children:"\u4f60\u597d\uff0c\u4e16\u754c"})}a.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[7,1,2]]]);
-//# sourceMappingURL=main.c5349f2c.chunk.js.map

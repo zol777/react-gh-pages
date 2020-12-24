@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-gh-pages"]=this["webpackJsonpreact-gh-pages"]||[]).push([[0],{10:function(e,r,t){},4:function(e,r,t){"use strict";t.r(r);var c=t(0),n=(t(2),t(3)),s=t.n(n);t(10);function o(){return Object(c.jsxs)("div",{children:[" ",Object(c.jsx)("h1",{children:"Herllo World"})]})}s.a.render(Object(c.jsx)(o,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.532074a6.chunk.js.map
